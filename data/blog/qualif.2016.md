@@ -1,9 +1,9 @@
 ---
-title: Criação de Jogos 3D e Android, Fraiburgo SC
-date: '2016-06-10'
+title: Colégio Seminário, Montevideo - Uruguai
+date: '2016-08-29'
 tags: []
 draft: false
-summary: Curso de Criação de Jogos 3D e Android. Feito pela CETESC. CH - 120h.
+summary: Certificado de Experiência de Intercâmbio Internacional.
 images: ['']
 layout: PostLayout
 ---
