@@ -1,15 +1,16 @@
 import { PageSEO } from '@/components/SEO'
 import Image from 'next/image'
 import projectsData from '@/data/projectsData'
+import skills from '@/data/skills'
 import Card from '@/components/Card'
 
 export default function AuthorLayout({ children, frontMatter }) {
   const { name, occupation, company } = frontMatter
-
+  console.log(skills)
   return (
     <>
       <PageSEO title={`About - ${name}`} description={`About me - ${name}`} />
-      <div className="divide-y">
+      <div className="">
         <div className="pt-6 pb-8 space-y-2 md:space-y-5 flex">
           <div className="w-14 md:w-20">
             <Image
@@ -23,7 +24,7 @@ export default function AuthorLayout({ children, frontMatter }) {
             Thiago Sartorel
           </h1>
         </div>
-        <div className="items-start space-y-2 xl:grid xl:grid-cols-3 xl:gap-x-8 xl:space-y-0">
+        <div className="items-start space-y-2 xl:grid xl:grid-cols-3 xl:gap-x-8 xl:space-y-0 border-t">
           <div className="flex flex-col items-center pt-8 space-x-2">
             <img
               src="https://github.com/thiagosartorel.png"
@@ -35,39 +36,15 @@ export default function AuthorLayout({ children, frontMatter }) {
             </h3>
             <div className="text-gray-500 dark:text-gray-400">{occupation}</div>
             <div className="text-gray-500 dark:text-gray-400 pb-2">{company}</div>
-            <div className="w-full h-20 border-t py-2">
-              <h1 className="dark:text-white font-bold text-center">Skills</h1>
-              <div className="p-2 flex flex-nowrap overflow-x-auto scroll-top">
-                <img
-                  src="https://i.imgur.com/nJT38Za.png"
-                  alt="avatar"
-                  className="w-24 h-24 hover:skew-y-3 hover:scale-105"
-                ></img>
-                <img
-                  src="https://i.imgur.com/m33OQfu.png"
-                  alt="avatar"
-                  className="w-24 h-24 hover:skew-y-3 hover:scale-105"
-                ></img>
-                <img
-                  src="https://i.imgur.com/kMLZFxq.png"
-                  alt="avatar"
-                  className="w-24 h-24 hover:skew-y-3 hover:scale-105"
-                ></img>
-                <img
-                  src="https://i.imgur.com/5wwF7Xm.png"
-                  alt="avatar"
-                  className="w-24 h-24 hover:skew-y-3 hover:scale-105"
-                ></img>
-              </div>
-            </div>
           </div>
           <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2 text-justify">
             {children}
           </div>
         </div>
-        <div className="sm:mx-20">
+
+        <div className="sm:mx-20 border-t">
           <h1 className="text-center text-2xl font-bold py-4">Últimos trabalhos</h1>
-          <div className="flex flex-col md:flex-row dark:bg-blue-900 dark:bg-opacity-20 rounded-lg mx-auto">
+          <div className="flex flex-col md:flex-row dark:bg-black dark:bg-opacity-20 rounded-lg mx-auto">
             {projectsData
               .filter((item, index) => index < 3)
               .map((d) => (
