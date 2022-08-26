@@ -28,13 +28,38 @@ export default function AuthorLayout({ children, frontMatter }) {
             <img
               src="https://github.com/thiagosartorel.png"
               alt="avatar"
-              className="w-48 h-48 rounded-full"
+              className="w-48 h-48 rounded-full "
             />
             <h3 className="pt-4 pb-2 text-2xl font-bold leading-8 tracking-tight text-center">
               {name}
             </h3>
             <div className="text-gray-500 dark:text-gray-400">{occupation}</div>
-            <div className="text-gray-500 dark:text-gray-400">{company}</div>
+            <div className="text-gray-500 dark:text-gray-400 pb-2">{company}</div>
+            <div className="w-full h-20 border-t py-2">
+              <h1 className="dark:text-white font-bold text-center">Skills</h1>
+              <div className="p-2 flex flex-nowrap overflow-x-auto scroll-top">
+                <img
+                  src="https://i.imgur.com/nJT38Za.png"
+                  alt="avatar"
+                  className="w-24 h-24 hover:skew-y-3 hover:scale-105"
+                ></img>
+                <img
+                  src="https://i.imgur.com/m33OQfu.png"
+                  alt="avatar"
+                  className="w-24 h-24 hover:skew-y-3 hover:scale-105"
+                ></img>
+                <img
+                  src="https://i.imgur.com/kMLZFxq.png"
+                  alt="avatar"
+                  className="w-24 h-24 hover:skew-y-3 hover:scale-105"
+                ></img>
+                <img
+                  src="https://i.imgur.com/5wwF7Xm.png"
+                  alt="avatar"
+                  className="w-24 h-24 hover:skew-y-3 hover:scale-105"
+                ></img>
+              </div>
+            </div>
           </div>
           <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2 text-justify">
             {children}
