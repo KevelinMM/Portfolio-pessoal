@@ -3,6 +3,7 @@ import Image from 'next/image'
 import projectsData from '@/data/projectsData'
 import skills from '@/data/skills'
 import Card from '@/components/Card'
+import Render from '@/components/Render'
 
 export default function AuthorLayout({ children, frontMatter }) {
   const { name, occupation, company } = frontMatter
@@ -37,15 +38,9 @@ export default function AuthorLayout({ children, frontMatter }) {
             <div className="text-gray-500 dark:text-gray-400">{occupation}</div>
             <div className="text-gray-500 dark:text-gray-400 pb-2">{company}</div>
             <div className="w-full h-20 py-2">
-              <div className="">
+              <div className="p-2 flex flex-wrap justify-center">
                 {skills.icons.map((item, index) => (
-                  <Card
-                    key={'d.title'}
-                    title={'d.title'}
-                    description={''}
-                    imgSrc={'https://github.com/thiagosartorel.png'}
-                    href={'d.href'}
-                  />
+                  <Render key={index} imgSrc={item} alt={skills.desc[index]} />
                 ))}
               </div>
             </div>
