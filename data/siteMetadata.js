@@ -5,7 +5,7 @@ const siteMetadata = {
   description: 'Thoughts from a wandering mind',
   language: 'pt-BR',
   siteUrl: 'https://www.kevelinmmattos.com.br/',
-  siteRepo: 'https://github.com/KevelinMM/Portfolio-pessoalm',
+  siteRepo: 'https://github.com/KevelinMM/Portfolio-pessoal',
   image: 'https://github.com/KevelinMM.png',
   socialBanner: 'https://github.com/KevelinMM.png',
   email: 'kevelinmmattos@gmail.com',
