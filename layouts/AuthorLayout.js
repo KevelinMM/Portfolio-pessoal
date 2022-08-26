@@ -36,7 +36,9 @@ export default function AuthorLayout({ children, frontMatter }) {
             </h3>
             <div className="text-gray-500 dark:text-gray-400">{occupation}</div>
             <div className="text-gray-500 dark:text-gray-400 pb-2">{company}</div>
-            <div className="w-full h-20 py-2"></div>
+            <div className="w-full h-20 py-2">
+              <div className="p-2 flex flex-wrap justify-center"></div>
+            </div>
           </div>
           <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2 text-justify">
             {children}
