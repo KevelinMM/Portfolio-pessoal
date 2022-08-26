@@ -39,7 +39,7 @@ export default function AuthorLayout({ children, frontMatter }) {
             <div className="w-full h-20 py-2">
               <div className="p-2 flex flex-wrap justify-center">
                 {skills.icons.map((item, index) => {
-                  return true
+                  ;<div>ads</div>
                 })}
               </div>
             </div>
