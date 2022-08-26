@@ -1,19 +1,20 @@
 ---
-name: Kevelin Mondadori Mattos
+name: Thiago Cezar Posanske Sartorel
 occupation: Analista de Sistemas
-company: kevelinmmattos@gmail.com
+company: thiagosartorel@uniplac.net
 ---
 
-Seja bem vindo(a) ao meu portifólio profissional, que tem como objetivo mostrar meus projetos, informações para contato e formação acadêmica.
-Formada em Administração e cursando quinto período de Sistemas da Informação pela
-Universidade do Planalto Catarinense (Uniplac).
+Bem vindo ao meu portfólio.
 
-Minha maior conquista foi a criação da minha própria marca de cosméticos naturais, a
-Saboarte, onde todos os produtos são produzidos artesanalmente por mim. Além de endender
-o processo de produção, aprendi muito sobre finanças, marketing digital, design, vendas e comunicação.
+Sou natural de Fraiburgo SC e residente em Lages SC, estou em constante busca de oportunidades para alavancar minhas habilidades como desenvolvedor.
+
+
+O intuito da página é mostrar de forma objetiva e simples meu crescimento tanto profissional como pessoal com projetos realizados e capacitações.
 
 Atualmente trabalho na área de TI como analista de sistemas na Uniplac, realizando trabalhos em Sql Server, MySQL, HTML, CSS, Tailwind, Bootstrap, JavaScript, React e Nextjs. Dedico meu tempo livre a saboaria e a leitura.
 
-Data de nascimento: 01/09/2000;
-Natural e residência atual: Lages SC;
-Disponibilidade para trabalho remoto e presencial.
+Minha ligação com a área da TI começou logo cedo, ainda com 14 anos realizei meu primeiro curso em Assistência Técnica de computadores e redes, onde me identifiquei. Logo em seguida, comecei outros cursos , dentre eles computação gráfica e criação de jogos 3D.
+
+Pela afinidade com a área, optei pela formação Técnico de Informática no ensino médio.
+
+Atualmente, trabalho na Universidade do Planalto Catarinense - Uniplac, como desenvolvedor de softwares e sites institucionais, além de cursar Sistemas de Informação.

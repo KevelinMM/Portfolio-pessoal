@@ -1,11 +1,5 @@
 const projectsData = [
   {
-    title: 'Saboarte',
-    description: `Ecommerce Saboarte, marca idealizada por Kevelin Mondadori Mattos. Saboaria natural, artesanal e vegana.`,
-    imgSrc: 'https://i.imgur.com/Nl4dL08.png',
-    href: 'https://www.saboarte.com/',
-  },
-  {
     title: 'Rede Feminina de Fraiburgo',
     description: `Site realizado de forma gratuíta para Instituição de combate ao câncer com o objetivo de informar, mostrar transparência aos futuros doadores e divulgar a Rede.`,
     imgSrc: 'https://i.imgur.com/qwKtd1t.png',
@@ -29,7 +23,7 @@ const projectsData = [
     title: 'MidiLages',
     description: `Site para o Micro Distrito de Base Tecnológica de Lages - Incubadora MIDILages. Implantação, operacionalização, diretoria técnica e administrativa de Incubadora de Empresas, estimulando empreendimentos.`,
     imgSrc: 'https://i.imgur.com/T1H4EGG.png',
-    href: 'https://midilages.com.br/',
+    href: 'https://midilages.com.br',
   },
 ]
 

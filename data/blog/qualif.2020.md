@@ -1,10 +1,10 @@
 ---
-title: Certificado Udemy
-date: '2020-09-16'
+title: Rockfeller Language Center, Lages SC
+date: '2020-01-16'
 tags: []
 draft: false
 bibliography: 'responsible-ai.bib'
-summary: Certificado curso completo dominando o Office 2019.
+summary: Curso de inglês. Tempo de curso 2 anos.
 images: ['']
 layout: PostLayout
 ---
