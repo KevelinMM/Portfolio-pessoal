@@ -56,7 +56,7 @@ module.exports = withBundleAnalyzer({
   reactStrictMode: true,
   pageExtensions: ['js', 'jsx', 'md', 'mdx'],
   images: {
-    domains: ['i.imgur.com', 'imgur.com'],
+    domains: ['i.imgur.com', 'imgur.com', 'media.giphy.com'],
     formats: ['image/avif', 'image/webp'],
   },
   eslint: {

@@ -7,7 +7,7 @@ const projectsData = [
   },
   {
     title: 'Rede Feminina de Fraiburgo',
-    description: `Site realizado de forma gratuíta para Instituição de combate ao câncer com o objetivo de informar, mostrar transparência aos futuros doares e divulgar a Rede.`,
+    description: `Site realizado de forma gratuíta para Instituição de combate ao câncer com o objetivo de informar, mostrar transparência aos futuros doadores e divulgar a Rede.`,
     imgSrc: 'https://i.imgur.com/qwKtd1t.png',
     href: 'https://rfccfraiburgo.com.br/',
   },
