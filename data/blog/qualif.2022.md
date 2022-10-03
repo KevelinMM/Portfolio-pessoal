@@ -1,5 +1,5 @@
 ---
-title: Sistemas de informação
+title: Bacharelado em Sistemas de informação
 date: '9999'
 tags: []
 draft: false
