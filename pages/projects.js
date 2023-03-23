@@ -13,7 +13,7 @@ export default function Projects() {
             Projetos
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            Alguns dos meus trabalhos!
+            Alguns dos meus trabalhos, realizados com Next.js, AdonisJS e Tailwind css!
           </p>
         </div>
         <div className="container py-12">
