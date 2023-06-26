@@ -30,23 +30,29 @@ const projectsData = [
 
   {
     title: 'Nupeb',
-    description: `Sistema
-    desenvolvido para o Núcleo de Pesquisa em Educação Básica, localizado em Lages SC para a divulgação do núcleo e publicações realizadas pelos participantes.`,
+    description: `Sistema desenvolvido para o Núcleo de Pesquisa em Educação Básica, localizado em Lages SC para a divulgação do núcleo e publicações realizadas pelos participantes.`,
     imgSrc: 'https://i.imgur.com/1AhfRMz.png',
     href: 'https://nupeb.uniplaclages.edu.br/',
   },
   {
     title: 'Corredor das Tropas',
-    description: `Site para disseminar a história e cultura serrana, com o objetivo de divulgar o Monumento dos Bois, localizado na Universidade do Planalto Catarinense.`,
+    description: `Site que visa disseminar a história e cultura serrana, divulgando o Monumento dos Bois, localizado na Universidade do Planalto Catarinense.`,
     imgSrc: 'https://imgur.com/6KiAeH6.png',
     href: 'https://corredordastropas.uniplaclages.edu.br/',
   },
 
   {
     title: 'Krieguer Advocacia',
-    description: `Landing page profissional para escritório de advocacia consultoria jurídica, com o objetivo de informar os serviços oferecidos e capturar potenciais clientes. `,
+    description: `Landing page profissional para escritório de advocacia consultoria jurídica para divulgar os serviços oferecidos e capturar potenciais clientes. `,
     imgSrc: 'https://i.imgur.com/OOwszWB.png',
     href: 'https://www.kriegueradvocacia.com.br/',
+  },
+
+  {
+    title: 'MidiLages',
+    description: `Site estático desenvolvido para o Micro Distrito de Base Tecnológica de Lages. Objetivos: Divulgar a incubadora, facilitar o cadastro de ideias por meio de formulário, divulgar as empresas incubadas assim como os patrocinadores, cadastrar notícias e mostrar a infraestrutura da incubadora. `,
+    imgSrc: 'https://i.imgur.com/ECBrDCm.png',
+    href: 'https://midilages.com.br/index.html',
   },
 ]
 
