@@ -1,7 +1,12 @@
 const projectsData = [
   {
+    title: 'EMAJ',
+    description: `Sistema desenvolvido para o controle de estágio do curso de direiro da Universidade do Planalto Catarinense. Funcionalidades: Controle de horas de estágio e avaliação contínua dos acadêmicos, cadastro e gerenciamento de informações de clientes, documentos e protocolos de atendimento.`,
+    imgSrc: 'https://i.imgur.com/WFfHzxn.png',
+  },
+  {
     title: 'Repositório Institucional',
-    description: `Sistema dinâmico que visa armazenar, preservar, e disseminar a produção intelectual da comunidade das Universidades.`,
+    description: `Sistema dinâmico que visa armazenar, preservar, e disseminar a produção intelectual da comunidade das Universidades. Funcionalidades: Envio simplificado de trabalhos acadêmicos por meio de formulário, cadastro de origens (cursos) e categorias, cadastro de usuários para gerenciamento de documentos.`,
     imgSrc: 'https://imgur.com/Dk5XKQ0.png',
     href: 'https://repositorio.uniplaclages.edu.br/',
   },
@@ -15,7 +20,6 @@ const projectsData = [
     title: 'Rede Feminina de Fraiburgo',
     description: `Site realizado de forma gratuíta para a Rede feminina de Combate ao Câncer, localizada em Fraiburgo SC.`,
     imgSrc: 'https://i.imgur.com/qwKtd1t.png',
-    href: 'https://rfccfraiburgo.com.br/',
   },
   {
     title: 'AFEUP',
@@ -27,14 +31,13 @@ const projectsData = [
   {
     title: 'Nupeb',
     description: `Sistema
-    realizado para o Núcleo de Pesquisa em Educação Básica da
-    Uniplac, localizada em Lages SC para a divulgação do núcleo e publicações realizadas pelos participantes.`,
+    realizado para o Núcleo de Pesquisa em Educação Básica, localizado em Lages SC para a divulgação do núcleo e publicações realizadas pelos participantes.`,
     imgSrc: 'https://i.imgur.com/1AhfRMz.png',
     href: 'https://nupeb.uniplaclages.edu.br/',
   },
   {
     title: 'Corredor das Tropas',
-    description: `História e cultura serrana. Desenvolvimento do site para o monumento localizado na instituiçao Uniplac.`,
+    description: `Site para compartilhar a história e cultura serrana, com o objetivo de divulgar o Monumento dos Bois, localizado na Universidade do Planalto Catarinense.`,
     imgSrc: 'https://imgur.com/6KiAeH6.png',
     href: 'https://corredordastropas.uniplaclages.edu.br/',
   },

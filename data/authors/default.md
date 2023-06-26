@@ -4,12 +4,9 @@ occupation: Analista de Sistemas
 company: kevelinmmattos@gmail.com
 ---
 
-Seja bem vindo(a) ao meu portifólio profissional, que tem como objetivo mostrar meus projetos, informações para contato e formação acadêmica.
-Formada em Administração e cursando quinto período de Sistemas da Informação pela
+Seja bem vindo(a) ao meu portifólio profissional, que tem como objetivo mostrar meus projetos, informações para contato e formação acadêmica. Me chamo Kevelin, tenho 23 anos e sou formada em formada em Administração pela universidade Positovo e estou cursando o sexto período de Sistemas da Informação pela
 Universidade do Planalto Catarinense (Uniplac).
 
-Minha maior conquista foi a criação da minha própria marca de cosméticos naturais, a
-Saboarte, onde todos os produtos são produzidos artesanalmente por mim. Além de endender
-o processo de produção, aprendi muito sobre finanças, marketing digital, design, vendas e comunicação.
+Minha maior conquista foi a criação da minha própria marca de cosméticos naturais, a Saboarte, onde todos os produtos são produzidos artesanalmente por mim. Além de endender o processo de produção, aprendi muito sobre finanças, marketing digital, design, vendas e comunicação.
 
 Atualmente trabalho na área de TI como analista de sistemas na Uniplac, realizando trabalhos em Sql Server, MySQL, HTML, CSS, Tailwind, Bootstrap, JavaScript, React e Nextjs. Dedico meu tempo livre a saboaria e a leitura.
