@@ -31,13 +31,13 @@ const projectsData = [
   {
     title: 'Nupeb',
     description: `Sistema
-    realizado para o Núcleo de Pesquisa em Educação Básica, localizado em Lages SC para a divulgação do núcleo e publicações realizadas pelos participantes.`,
+    desenvolvido para o Núcleo de Pesquisa em Educação Básica, localizado em Lages SC para a divulgação do núcleo e publicações realizadas pelos participantes.`,
     imgSrc: 'https://i.imgur.com/1AhfRMz.png',
     href: 'https://nupeb.uniplaclages.edu.br/',
   },
   {
     title: 'Corredor das Tropas',
-    description: `Site para compartilhar a história e cultura serrana, com o objetivo de divulgar o Monumento dos Bois, localizado na Universidade do Planalto Catarinense.`,
+    description: `Site para disseminar a história e cultura serrana, com o objetivo de divulgar o Monumento dos Bois, localizado na Universidade do Planalto Catarinense.`,
     imgSrc: 'https://imgur.com/6KiAeH6.png',
     href: 'https://corredordastropas.uniplaclages.edu.br/',
   },
