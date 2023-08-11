@@ -1,6 +1,6 @@
 ---
 name: Kevelin Mondadori Mattos
-occupation: Analista de Sistemas
+occupation: Dev Front-end | JavaScript | Nextjs | Tailwind CSS
 company: kevelinmmattos@gmail.com
 ---
 
