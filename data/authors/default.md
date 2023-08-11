@@ -4,9 +4,10 @@ occupation: Analista de Sistemas
 company: kevelinmmattos@gmail.com
 ---
 
-Eu sou a Kevelin, seja bem vindo(a) ao meu portifólio profissional, que tem como objetivo mostrar meus projetos, informações para contato e formação acadêmica. Tenho 23 anos, sou formada em Administração pela universidade Positovo e estou cursando o sexto período de Sistemas da Informação pela
-Universidade do Planalto Catarinense (Uniplac).
+Olá, sou Kevelin, e é um prazer receber você em meu portfólio profissional.
 
-Minha maior conquista foi a criação da minha própria marca de cosméticos naturais, a Saboarte, onde todos os produtos são produzidos artesanalmente por mim. Além de endender o processo de produção, aprendi muito sobre finanças, marketing digital, design, vendas e comunicação.
+O objetivo do site é mostrar meus projetos, qualificações, informações para contato e formação acadêmica. Tenho 23 anos, sou formada em Administração pela Universidade Positivo de Curitiba e estou cursando o sexto período de Sistemas da Informação pela Universidade do Planalto Catarinense (Uniplac).
 
-Atualmente trabalho na área de TI como analista de sistemas na Uniplac, sendo responsável pelo desenvolvimento Front end de soluções web, realizando trabalhos em Sql Server, MySQL, HTML, CSS, Tailwind, JavaScript, React e Nextjs. Dedico meu tempo livre a saboaria e a leitura.
+Me identifico com potencial perfil de liderança, tomando frente em projetos, buscando soluções inovadoras e organizando equipes de forma dinâmica. Tenho sólidos conhecimentos em tecnologias como HTML, CSS e JavaScript. No desenvolvimento dos meus projetos, utilizo Next.js, React, Tailwind e MUI para componentes, e o GitHub como ferramenta de versionamento. Tenho interesse de aprimorar meus conhecimentos e habilidades como programadora front-end, vontade e disposição para conhecer novas tecnologias.
+
+Atualmente, exerço a função de analista de sistemas na Uniplac, onde sou responsável pelo desenvolvimento front-end de soluções web para a instituição. Em meu tempo livre, gosto de sair com minhas cachorras (Frida e Moly), além de me dedicar à leitura e ao artesanato.

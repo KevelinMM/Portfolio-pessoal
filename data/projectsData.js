@@ -1,5 +1,11 @@
 const projectsData = [
   {
+    title: 'The Maze',
+    description: `Solução web criada para divulgação de um jogo de puzzles que traz um clima misterioso.`,
+    imgSrc: 'https://i.imgur.com/DUUVjYq.png',
+    href: 'https://www.themaze.quest/',
+  },
+  {
     title: 'EMAJ',
     description: `Sistema desenvolvido para o controle de estágio do curso de direiro da Universidade do Planalto Catarinense. Funcionalidades: Controle de horas de estágio e avaliação contínua dos acadêmicos, cadastro e gerenciamento de informações de clientes, documentos e protocolos de atendimento.`,
     imgSrc: 'https://i.imgur.com/WFfHzxn.png',
