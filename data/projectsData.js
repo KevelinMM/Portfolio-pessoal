@@ -1,7 +1,7 @@
 const projectsData = [
   {
     title: 'The Maze',
-    description: `Solução web criada para divulgação de um jogo de puzzles que traz um clima misterioso.`,
+    description: `Plataforma online destinada a divulgar um jogo de puzzles que traz um clima misterioso. O site apresenta animações distintas para as versões móvel e desktop, garantindo uma experiência adaptada a cada dispositivo.`,
     imgSrc: 'https://i.imgur.com/DUUVjYq.png',
     href: 'https://www.themaze.quest/',
   },
