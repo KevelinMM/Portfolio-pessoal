@@ -20,7 +20,7 @@ const Render = ({ alt, imgSrc }) => {
         width={27}
         height={27}
       />
-      <span className="absolute bg-black rounded px-1 text-center mt-8 z-10 hidden group-hover:flex">
+      <span className="absolute bg-slate-400 rounded px-1 text-center mt-8 z-10 hidden group-hover:flex hover:flex text-white">
         {alt}
       </span>
     </div>
