@@ -9,7 +9,7 @@ export default function AuthorLayout({ children, frontMatter }) {
     <>
       <PageSEO title={`About - ${name}`} description={`About me - ${name}`} />
       <div className="divide-y">
-        <div className="py-4 space-y-2 md:space-y-5">
+        <div className="py-3 space-y-2 md:space-y-5">
           <h1 className=" text-2xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-5xl md:leading-14">
             Seja bem vindo(a)
           </h1>
