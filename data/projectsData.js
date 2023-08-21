@@ -29,8 +29,8 @@ const projectsData = [
   },
   {
     title: 'AFEUP',
-    description: `Site realizado para Associação de funcionários da Uniplac, localizada em Lages SC.`,
-    imgSrc: 'https://imgur.com/rLIKap6.png',
+    description: `Site responsivo realizado para AFEUP (Associação de Funcionários da Uniplac), localizada em Lages SC.`,
+    imgSrc: 'https://i.imgur.com/ePAPzqQ.png',
     href: 'https://afeup.uniplaclages.edu.br/',
   },
 
