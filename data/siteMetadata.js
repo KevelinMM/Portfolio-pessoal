@@ -5,14 +5,14 @@ const siteMetadata = {
   description: 'Thoughts from a wandering mind',
   language: 'pt-BR',
   siteUrl: '',
-  siteRepo: 'https://github.com/KevelinMM/Portfolio-pessoalm',
+  siteRepo: 'https://github.com/KevelinMM/Portfolio-pessoal',
   image: 'https://github.com/KevelinMM.png',
   socialBanner: 'https://github.com/KevelinMM.png',
   email: 'kevelinmmattos@gmail.com',
   github: 'https://github.com/KevelinMM',
   instagram: 'https://www.instagram.com/kevelin_mattos/',
   whatsapp: 'https://wa.me/5549998076767',
-  linkedin: 'https://www.linkedin.com/in/kevelin-mondadori-5100b5197/',
+  linkedin: 'https://www.linkedin.com/in/kevelin-mattos-5100b5197/',
   locale: 'pt-BR',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics
