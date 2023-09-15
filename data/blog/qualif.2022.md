@@ -1,6 +1,6 @@
 ---
 title: Bacharelado em Sistemas de informação
-date: '9999'
+date: '2024-05-01'
 tags: []
 draft: false
 summary: Cursando Sistemas de informação pela Universidade do Planalto Catarinense. Conclusão em Junho de 2024.

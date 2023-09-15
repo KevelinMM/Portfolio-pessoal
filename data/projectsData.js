@@ -6,6 +6,12 @@ const projectsData = [
     href: 'https://www.themaze.quest/',
   },
   {
+    title: 'Hub Uniplac',
+    description: `Plataforma online para promover a interação entre academia e comunidade, com foco em ações voltadas para o aprendizado do aluno e desenvolvimento regional, por meio de intervenções que contribuam para a criação, cocriação e reconfiguração de processos e negócios.`,
+    imgSrc: 'https://i.imgur.com/b04c3pR.png',
+    href: 'https://hub.uniplaclages.edu.br/',
+  },
+  {
     title: 'EMAJ',
     description: `Sistema desenvolvido para o controle de estágio do curso de direiro da Universidade do Planalto Catarinense. Funcionalidades: Controle de horas de estágio e avaliação contínua dos acadêmicos, cadastro e gerenciamento de informações de clientes, documentos e protocolos de atendimento.`,
     imgSrc: 'https://i.imgur.com/WFfHzxn.png',
