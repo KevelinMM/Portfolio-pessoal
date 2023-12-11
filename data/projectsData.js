@@ -29,11 +29,6 @@ const projectsData = [
     href: 'https://posgrado.uniplaclages.edu.br/',
   },
   {
-    title: 'Rede Feminina de Fraiburgo',
-    description: `Site realizado de forma gratuíta para a Rede feminina de Combate ao Câncer, localizada em Fraiburgo SC.`,
-    imgSrc: 'https://i.imgur.com/qwKtd1t.png',
-  },
-  {
     title: 'AFEUP',
     description: `Site responsivo realizado para AFEUP (Associação de Funcionários da Uniplac), localizada em Lages SC.`,
     imgSrc: 'https://i.imgur.com/ePAPzqQ.png',
@@ -44,7 +39,6 @@ const projectsData = [
     title: 'Nupeb',
     description: `Sistema desenvolvido para o Núcleo de Pesquisa em Educação Básica, localizado em Lages SC para a divulgação do núcleo e publicações realizadas pelos participantes.`,
     imgSrc: 'https://i.imgur.com/1AhfRMz.png',
-    href: 'https://nupeb.uniplaclages.edu.br/',
   },
   {
     title: 'Corredor das Tropas',
@@ -57,7 +51,6 @@ const projectsData = [
     title: 'Krieguer Advocacia',
     description: `Landing page profissional para escritório de advocacia consultoria jurídica para divulgar os serviços oferecidos e capturar potenciais clientes. `,
     imgSrc: 'https://i.imgur.com/OOwszWB.png',
-    href: 'https://www.kriegueradvocacia.com.br/',
   },
 
   {
